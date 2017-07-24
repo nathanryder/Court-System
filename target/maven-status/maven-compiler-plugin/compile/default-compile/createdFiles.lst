@@ -1,0 +1,16 @@
+me/bumblebeee_/justicesystem/commands/JoinJuryCommand.class
+me/bumblebeee_/justicesystem/Court.class
+me/bumblebeee_/justicesystem/commands/GuiltyCommand.class
+me/bumblebeee_/justicesystem/Messages.class
+me/bumblebeee_/justicesystem/listeners/PlayerMove.class
+me/bumblebeee_/justicesystem/commands/CourtCommand.class
+me/bumblebeee_/justicesystem/commands/SetCourtCommand.class
+me/bumblebeee_/justicesystem/commands/InnocentCommand.class
+me/bumblebeee_/justicesystem/commands/SetCriminalCommand.class
+me/bumblebeee_/justicesystem/commands/SetJuryCommand.class
+me/bumblebeee_/justicesystem/managers/CourtManager.class
+me/bumblebeee_/justicesystem/JusticeSystem.class
+me/bumblebeee_/justicesystem/commands/SueCommand.class
+me/bumblebeee_/justicesystem/commands/LeaveJuryCommand.class
+me/bumblebeee_/justicesystem/commands/setJudgeCommand.class
+me/bumblebeee_/justicesystem/listeners/PlayerQuit.class

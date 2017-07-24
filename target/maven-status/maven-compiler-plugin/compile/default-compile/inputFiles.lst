@@ -1,0 +1,16 @@
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/managers/CourtManager.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/listeners/PlayerMove.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/Messages.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/commands/JoinJuryCommand.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/listeners/PlayerQuit.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/commands/SetCriminalCommand.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/Court.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/commands/SetCourtCommand.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/commands/LeaveJuryCommand.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/commands/CourtCommand.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/commands/GuiltyCommand.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/commands/SetJuryCommand.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/JusticeSystem.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/commands/SueCommand.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/commands/setJudgeCommand.java
+/home/user/workspace/JusticeSystem/src/main/java/me/bumblebeee_/justicesystem/commands/InnocentCommand.java

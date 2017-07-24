@@ -1,0 +1,48 @@
+name: ${project.name}
+main: ${plugin.main}
+version: ${project.version}
+author: [${plugin.author}]
+description: Desc
+depend: [Vault]
+commands:
+  court:
+    description: Main command
+  guilty:
+    description: Guilty command
+  innocent:
+    description: Innocent command
+  joinjury:
+    description: Join the jury
+  leavejury:
+    description: Leave the jury
+  setcourt:
+    description: Set court location
+  setcriminal:
+    description: Set criminal location
+  setjudge:
+    description: Set judge location
+  setjury:
+    description: Set jury location
+  sue:
+    description: Sue a player
+
+permissions:
+  court.*:
+    description: All permissions
+    default: op
+    children:
+      court.setcourt: true
+      court.setjudge: true
+      court.jury.join: true
+      court.jury.leave: true
+      court.setjury: true
+      court.setcriminal: true
+      court.sue: true
+      court.innocent: true
+      court.guilty: true
+      court.status: true
+      court.reload: true
+      court.help: true
+      court.start: true
+      court.end: true
+      court.remove: true
